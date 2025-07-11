@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\datacontext\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\datacontext\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\datacontext\\newgenwebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\datacontext\\newgenwebdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\sitetemplate\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\sitetemplate\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\viewmodel\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\viewmodel\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|c:\\users\\shreyas\\source\\repos\\newgenapp\\newgenapp\\migrations\\20250628070719_tablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A79C852C-80F4-4B41-9479-6D74B66B3764}|NewgenApp\\NewgenApp.csproj|solutionrelative:newgenapp\\migrations\\20250628070719_tablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Program.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Program.cs",
+              "RelativeToolTip": "NewgenApp\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAEsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:26:48.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "NewgenApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:21:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0CAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T15:48:09.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:15:27.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewgenWebDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\DataContext\\NewgenWebDBContext.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\DataContext\\NewgenWebDBContext.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\DataContext\\NewgenWebDBContext.cs",
+              "RelativeToolTip": "NewgenApp\\DataContext\\NewgenWebDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:59:35.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\SiteTemplate\\index.html",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\SiteTemplate\\index.html",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\SiteTemplate\\index.html",
+              "RelativeToolTip": "NewgenApp\\Views\\SiteTemplate\\index.html",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAAAAkCAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-29T07:20:35.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\DataContext\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\DataContext\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\DataContext\\DbInitializer.cs",
+              "RelativeToolTip": "NewgenApp\\DataContext\\DbInitializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:38:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "NewgenApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T01:56:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:00:16.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "NewgenApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:23:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "NewgenApp\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "NewgenApp\\wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-24T05:21:38.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:16:09.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:00:58.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "NewgenApp\\ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:06:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\ViewModel\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "NewgenApp\\ViewModel\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:01:32.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T15:46:56.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250628070719_TableCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Migrations\\20250628070719_TableCreation.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Migrations\\20250628070719_TableCreation.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Migrations\\20250628070719_TableCreation.cs",
+              "RelativeToolTip": "NewgenApp\\Migrations\\20250628070719_TableCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:07:20.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "NewgenApp\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:36:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "NewgenApp\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:11:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T13:54:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Logout.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T14:01:26.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T13:59:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "NewgenApp\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T08:27:39.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwDgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:18:13.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:18:51.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NewgenApp\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "NewgenApp\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T08:17:28.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\Employee.cs",
+              "RelativeToolTip": "NewgenApp\\Models\\Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:15:56.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "NewgenApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Shreyas\\source\\repos\\NewgenApp\\NewgenApp\\Models\\Department.cs",
+              "RelativeToolTip": "NewgenApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:07:29.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
