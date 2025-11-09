@@ -259,3 +259,4 @@ C:\Users\Shreyas\source\repos\NewgenApp\NewgenApp\obj\Debug\net8.0\staticwebasse
 C:\Users\Shreyas\source\repos\NewgenApp\NewgenApp\obj\Debug\net8.0\NewgenApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Shreyas\source\repos\NewgenApp\NewgenApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Shreyas\source\repos\NewgenApp\NewgenApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Shreyas\source\repos\NewgenApp\NewgenApp\obj\Debug\net8.0\NewgenApp.sourcelink.json

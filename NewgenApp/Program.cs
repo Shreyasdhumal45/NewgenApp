@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
 // Register the ApplicationDbContext with dependency injection
 builder.Services.AddDbContext<NewgenWebDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("NewgenConnectionString"))
@@ -80,4 +81,6 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Employee}/{action=Index}/{id?}");
 
+
 app.Run();
+

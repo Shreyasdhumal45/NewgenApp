@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewgenApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d81a6fad8fa76aff0d85799b1fe292b94cafac79")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewgenApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewgenApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
